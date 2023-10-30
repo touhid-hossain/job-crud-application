@@ -1,0 +1,53 @@
+{
+  "jobs": [
+    {
+      "title": "Full Stack Developer",
+      "type": "Remote",
+      "salary": "355000",
+      "deadline": "2024-12-21",
+      "id": 1
+    },
+    {
+      "title": "Frontend Engineer",
+      "type": "Internship",
+      "salary": "225588",
+      "deadline": "2024-12-18",
+      "id": 2
+    },
+    {
+      "title": "MERN Stack Developer",
+      "type": "Full Time",
+      "salary": "447521",
+      "deadline": "2023-12-20",
+      "id": 3
+    },
+    {
+      "title": "MERN Stack Developer",
+      "type": "Internship",
+      "salary": "65165487",
+      "deadline": "2023-12-02",
+      "id": 4
+    },
+    {
+      "title": "Social Media Manager",
+      "type": "Remote",
+      "salary": "20000",
+      "deadline": "2023-11-30",
+      "id": 5
+    },
+    {
+      "title": "Android App Developer",
+      "type": "Full Time",
+      "salary": "35000",
+      "deadline": "2023-12-31",
+      "id": 6
+    },
+    {
+      "title": "Full Stack Developer",
+      "type": "Internship",
+      "salary": "18000",
+      "deadline": "2023-12-31",
+      "id": 7
+    }
+  ]
+}
